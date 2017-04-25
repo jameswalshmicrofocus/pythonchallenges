@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecc6f5c5-226d-4ee4-bada-f362e78998e5" name="Default" comment="Parsed character map for solution">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Python Challenge 6.py" />
+    <list default="true" id="ecc6f5c5-226d-4ee4-bada-f362e78998e5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Testing.py" afterPath="$PROJECT_DIR$/Testing.py" />
     </list>
@@ -26,22 +25,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Python Challenge 6.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Python Challenge 6.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Challenge 6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-              <folding />
+            <state relative-caret-position="170">
+              <caret line="10" column="34" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <marker date="1493147525917" expanded="true" signature="31:43" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Testing.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Testing.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Testing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="238">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Python Challenge 6">
+  <component name="RunManager" selected="Python.Testing.py">
     <configuration default="false" name="Python Challenge 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,7 +299,21 @@
       <option name="project" value="LOCAL" />
       <updated>1493144498636</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Can read absolute paths and run value">
+      <created>1493147057131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493147057132</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reads all &quot;nothings&quot;. &#10;&#10;&quot;Collect the comments&quot;?">
+      <created>1493147439692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493147439692</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -329,7 +346,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Parsed character map for solution" />
     <MESSAGE value="Can read absolute paths and run value" />
-    <option name="LAST_COMMIT_MESSAGE" value="Can read absolute paths and run value" />
+    <MESSAGE value="Reads all &quot;nothings&quot;. &#10;&#10;&quot;Collect the comments&quot;?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reads all &quot;nothings&quot;. &#10;&#10;&quot;Collect the comments&quot;?" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -360,22 +378,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python Challenge 5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Challenge 4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python Challenge 3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -384,19 +386,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testing.py">
+    <entry file="file://$PROJECT_DIR$/Python Challenge 4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Challenge 5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Challenge 6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-          <folding />
+        <state relative-caret-position="170">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <marker date="1493147525917" expanded="true" signature="31:43" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
