@@ -1,6 +1,11 @@
+i = 100
 filename = "90052.txt"
-path = "C:\\Users\\James\\Downloads\\channel\\"+filename
+while i > 8:
 
-with open(path, 'r') as myfile:
-    data = myfile.read().replace('\n', '')
-    print(data)
+    path = "C:\\Users\\James\\Downloads\\channel\\"+filename
+    with open(path, 'r') as myfile:
+        data = myfile.read().replace('\n', '')
+        print(data)
+        data = data.replace("Next nothing is ", "")
+        filename = data
+        filename = filename+".txt"

@@ -1,6 +1,7 @@
-import pickle
+filename = "90052.txt"
+path = "C:\\Users\\James\\Downloads\\channel"+filename
 
-pickle_in = open('banner.p', 'rb')
-pickle_out = pickle.load(pickle_in)
 
-print((pickle_out))
+print(path)
+    # with open('enable1.txt', 'r') as myfile:
+    #     data = myfile.read().replace('\n', '')
