@@ -16,4 +16,4 @@ while i > 8:
             list.append(z.getinfo(filename).comment)
     except:
         break
-print("".join(list))
+print(b''.join(list).decode())
