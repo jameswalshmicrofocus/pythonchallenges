@@ -4,7 +4,7 @@ list=[]
 filename = "90052.txt"
 z = zipfile.ZipFile("C:\\Users\\jamesw\\Downloads\\channel.zip")
 #commit comment
-while True:
+while i < 8:
 
     path = "C:\\Users\\jamesw\\Downloads\\channel\\"+filename
     try:
