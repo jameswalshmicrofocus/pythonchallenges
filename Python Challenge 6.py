@@ -9,15 +9,11 @@ while i > 8:
     try:
         with open(path, 'r') as myfile:
             data = myfile.read().replace('\n', '')
-            # print(data)
+            print(data)
             data = data.replace("Next nothing is ", "")
             filename = data
             filename = filename+".txt"
             list.append(z.getinfo(filename).comment)
     except:
         break
-
-
-for list in list:
-    print(list)
-
+print("".join(list))
