@@ -3,7 +3,7 @@ i = 100
 list=[]
 filename = "90052.txt"
 z = zipfile.ZipFile("C:\\Users\\jamesw\\Downloads\\channel.zip")
-while True:
+while i < 8:
 
     path = "C:\\Users\\jamesw\\Downloads\\channel\\"+filename
     try:
