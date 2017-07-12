@@ -1,7 +1,6 @@
 string = "http//www.pythonchallenge.com/pc/def/map.html"
 alphabet = "abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz , ,.'.'()()/ / / /"
-#string = string.replace(" ", "")
-decrypted_message = []
+#Comment to test connect decrypted_message = []
 to_list = ([str(i) for i in str(string)])
 to_alphabet = ([str(i) for i in str(alphabet)])
 
@@ -13,3 +12,4 @@ for characters in string:
 
 makeitastring = ''.join(map(str, decrypted_message))
 print(makeitastring)
+
